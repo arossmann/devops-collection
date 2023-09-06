@@ -4,7 +4,7 @@
 
 The intention of the script is to provide an easy starting point for automation. If you've already familiar with the runbooks and the action steps to be followed there, this script takes you to the next stage of automation. This script doesn't do anything else than printing the necessary steps you should follow to complete the necessary task. With that, these scripts are created for specific use cases.
 
-For further information, please read [this article](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/) or contact Arne Rossmann (arne.rossmann@capgeemini.com)
+For further information, please read [this article](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/).
 
 ## How to use it
 
